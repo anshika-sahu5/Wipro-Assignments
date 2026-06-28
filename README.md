@@ -14,7 +14,7 @@ The assignment folder is organized as follows:
 *   **`Topic-04-Normalization/`**: Functional dependencies, 1NF, 2NF, 3NF, and BCNF decomposition problems.
 *   **`Topic-05-PL-SQL/`**: Advanced database programming including Triggers, Stored Procedures, and Cursors (if applicable).
 
-*(Note: Feel free to rename these folder names in the list above to match the exact names of your subfolders!)*
+
 
 ---
 
@@ -22,12 +22,6 @@ The assignment folder is organized as follows:
 *   **Database Engines:** MySQL / Oracle / PostgreSQL *(Choose yours)*
 *   **Concepts:** Relational Algebra, Schema Refinement, Transaction Management, Query Optimization
 *   **Documentation:** Microsoft Word (`.doc` / `.docx`)
-
----
-
-## 📖 How to Access the Assignments
-1. Navigate into any specific topic folder above.
-2. Because Github does not natively preview `.doc`/`.docx` files in the browser, click on the assignment file and hit the **Download** button to view the complete solution and diagrams locally.
 
 ---
 
