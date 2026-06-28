@@ -32,5 +32,5 @@ The assignment folder is organized as follows:
 ---
 
 ## 👤 Author
-*   **Name:** [Your Name]
+*   **Name:** [Anshika Sahu]
 *   **Course:** B.Tech - Computer Science & Engineering
